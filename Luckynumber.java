@@ -7,7 +7,7 @@ public static void main(String[] args) {
     String name = sc.nextLine();
     System.out.println("Enter your lucky number.");
     int lucky= sc.nextInt();
-    System.out.println("Hello"+name+", your lucky number is Shlok"+lucky);
+    System.out.println("Hello "+name+", your lucky number is "+lucky);
 
 }
     
